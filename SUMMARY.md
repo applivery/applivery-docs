@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Applivery Docs](README.md)
+* [What is Applivery?](what-is-applivery/README.md)
+  * [My Awesome API](get-started/overview.md)
 
 ## Get started
 
