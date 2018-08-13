@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "sitemap" ],
+    "plugins": [ "theme-api", "sitemap", "anchorjs" ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
@@ -16,6 +16,15 @@
         },
         "sitemap": {
             "hostname": "https://docs.applivery.com/"
+        },
+        "anchorjs": {
+            "selector": "h2,h3,h4,h5",
+            "icon": "#",
+            "placement": "left",
+            "visible": "always",
+            "class": "custom-class another-one",
+            "truncate": 64,
+            "ariaLabel": "Anchor"
         }
     }
 }
