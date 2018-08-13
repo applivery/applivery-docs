@@ -1,6 +1,18 @@
-# My Awesome API
+---
+description: Welcome to Applivery docs!
+---
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# Applivery Docs
 
-Cool!
+Applivery is the most powerful Mobile Apps distribution system that enables **full control over your Mobile Apps** by briging together:
+
+* Mobile App Management and governance
+* Enterprise App Distribution
+* Automatic updates
+* Feedback & Bug reporting
+* Continuous Deployment
+
+Discover how Applivery can help you **manage and distribute Mobile Apps**, saving time and effort.
+
+[https://docs.applivery.com/~/drafts/-LJmMm\_eeFsY0cfOoPcg/primary/methods/introduction](https://docs.applivery.com/~/drafts/-LJmMm_eeFsY0cfOoPcg/primary/methods/introduction)
 

@@ -1,9 +1,20 @@
-# Summary
+# Table of contents
 
-## Overview
+* [Applivery Docs](README.md)
 
-* [My Awesome API](README.md)
+## Get started
 
-## Methods
+* [My Awesome API](overview/readme.md)
 
-* [Defining Methods](methods.md)
+## REST API
+
+* [Introduction](methods/introduction.md)
+
+## SDK
+
+## Advanced Configuration
+
+## Integrations
+
+## Troubleshooting
+
