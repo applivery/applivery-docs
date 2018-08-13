@@ -14,5 +14,5 @@ Applivery is the most powerful Mobile Apps distribution system that enables **fu
 
 Discover how Applivery can help you **manage and distribute Mobile Apps**, saving time and effort.
 
-[https://docs.applivery.com/methods/introduction](https://docs.applivery.com/methods/introduction)
+{% page-ref page="rest-api/introduction.md" %}
 

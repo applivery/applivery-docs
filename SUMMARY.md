@@ -4,17 +4,9 @@
 
 ## Get started
 
-* [My Awesome API](overview/readme.md)
+* [My Awesome API](get-started/overview.md)
 
 ## REST API
 
-* [Introduction](methods/introduction.md)
-
-## SDK
-
-## Advanced Configuration
-
-## Integrations
-
-## Troubleshooting
+* [Introduction](rest-api/introduction.md)
 
