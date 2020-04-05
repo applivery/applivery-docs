@@ -1,3 +1,5 @@
+# This repository is archived. Please refer to our [Knowledge Center](https://www.applivery.com/docs/)
+
 ---
 description: Welcome to Applivery docs!
 ---
